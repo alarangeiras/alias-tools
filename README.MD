@@ -23,7 +23,7 @@
 * ZSH: `$HOME/.zshrc`
 
 # How to use
-To start a MySQL just type the command followed by enter: `mysql-start`
+To start a MySQL just type the command followed by enter: `mysql-start`.  
 To destroy the containers type: `mysql-stop`
 
 # Extension
